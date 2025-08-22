@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/saveFingerprint.js": {
+      "maxDuration": 10
+    }
+  }
+}
