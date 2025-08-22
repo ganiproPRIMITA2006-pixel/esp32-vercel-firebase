@@ -128,6 +128,9 @@ dist
 # TernJS port file
 .tern-port
 
+# Firebase service account
+*.json
+
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
@@ -144,3 +147,5 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 >>>>>>> 2bee40f56ce6c7f57f9d1cdf523b3b0b53e3e1c4
+
+
