@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@google-cloud/firestore": "^6.0.0"
+    "@google-cloud/firestore": "6.5.0",
+    "firebase-admin": "^11.11.0"
   },
   "keywords": [],
   "author": "",
